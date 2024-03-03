@@ -1,0 +1,12 @@
+USERNAME,USER_EMAIL,PRODUCT_CODE,PRODUCT_NAME,PRODUCT_CATEGORY,ORDER_DATE
+john_doe,john.doe@example.com,P001,Laptop HP Pavilion 15.6,Electronics,2024-02-25 00:00:00 UTC
+john_doe,john.doe@example.com,P003,KitchenAid Stand Mixer,Home and Kitchen,2024-01-05 00:00:00 UTC
+john_doe,john.doe@example.com,P007,Lego Star Wars Millennium Falcon,Toys and Games,2023-12-20 00:00:00 UTC
+john_doe,john.doe@example.com,P002,Denim Jeans - Slim Fit,Clothing,2023-11-15 00:00:00 UTC
+john_doe,john.doe@example.com,P003,KitchenAid Stand Mixer,Home and Kitchen,2023-10-15 00:00:00 UTC
+john_doe,john.doe@example.com,P009,DeWalt Cordless Drill,Tools and Home Improvement,2024-02-28 00:00:00 UTC
+john_doe,john.doe@example.com,P001,Laptop HP Pavilion 15.6,Electronics,2024-02-25 00:00:00 UTC
+john_doe,john.doe@example.com,P003,KitchenAid Stand Mixer,Home and Kitchen,2024-01-05 00:00:00 UTC
+john_doe,john.doe@example.com,P007,Lego Star Wars Millennium Falcon,Toys and Games,2023-12-20 00:00:00 UTC
+john_doe,john.doe@example.com,P002,Denim Jeans - Slim Fit,Clothing,2023-11-15 00:00:00 UTC
+john_doe,john.doe@example.com,P003,KitchenAid Stand Mixer,Home and Kitchen,2023-10-15 00:00:00 UTC
